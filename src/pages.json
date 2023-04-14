@@ -1,0 +1,195 @@
+{
+	"pages": [
+		
+		{
+			"path": "pages/shouye/index",
+			"style": {
+				"navigationBarTitleText": "发芽"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "授权登录"
+			}
+		},
+		
+		{
+			"path": "pages/guiji/index",
+			"style": {
+				"navigationBarTitleText": "发芽"
+			}
+		},
+		{
+			"path": "pages/guiji/yearPlan",
+			"style": {
+				"navigationBarTitleText": "我的年规划"
+			}
+		},
+		{
+			"path": "pages/guiji/myDetail",
+			"style": {
+				"navigationBarTitleText": "我的成长规划"
+			}
+		},
+		{
+			"path": "pages/wode/index",
+			"style": {
+				"navigationBarTitleText": "发芽"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/addInfo",
+			"style": {
+				"navigationBarTitleText": "测评"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/goToCharacter",
+			"style": {
+				"navigationBarTitleText": "测评"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/goToInterest",
+			"style": {
+				"navigationBarTitleText": "测评"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/goToHyOrZy",
+			"style": {
+				"navigationBarTitleText": "测评"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/chooseHY",
+			"style": {
+				"navigationBarTitleText": "测评"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/chooseZY",
+			"style": {
+				"navigationBarTitleText": "测评"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/ZYresult",
+			"style": {
+				"navigationBarTitleText": "测评"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/HYresult",
+			"style": {
+				"navigationBarTitleText": "测评"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/character",
+			"style": {
+				"navigationBarTitleText": "性格测试"
+			}
+		},
+		{
+			"path": "pages/shouye/ceping/result",
+			"style": {
+				"navigationBarTitleText": "测评报告"
+			}
+		},
+		{
+			"path": "pages/shouye/hangyeku/hangyeku",
+			"style": {
+				"navigationBarTitleText": "行业库"
+			}
+		},
+		{
+			"path": "pages/shouye/hangyeku/bumen",
+			"style": {
+				"navigationBarTitleText": "行业库"
+			}
+		},
+		{
+			"path": "pages/shouye/hangyeku/detail",
+			"style": {
+				"navigationBarTitleText": "行业库"
+			}
+		},
+		{
+			"path": "pages/shouye/zhuanyeku/zhuanyeku",
+			"style": {
+				"navigationBarTitleText": "专业库"
+			}
+		},
+		{
+			"path": "pages/shouye/zhuanyeku/xueke",
+			"style": {
+				"navigationBarTitleText": "专业库"
+			}
+		},
+		{
+			"path": "pages/shouye/zhuanyeku/detail",
+			"style": {
+				"navigationBarTitleText": "专业库"
+			}
+		},
+		{
+			"path": "pages/shouye/tuijian/courseDetail",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		},
+		{
+			"path": "pages/shouye/tuijian/actDetail",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		},
+		{
+			"path": "pages/shouye/tuijian/compDetail",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		},
+		{
+			"path": "pages/shouye/tuijian/offerDetail",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "发芽",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"color":"#8a8a8a",
+		"selectedColor":"#8a8a8a",
+		"backgroundColor":"#fff",
+		"position":"bottom",
+		"borderStyle":"black",
+		"list":[
+			{
+			"pagePath":"pages/shouye/index",
+			"text":"首页",
+			"iconPath":"./static/icon/发芽图标（首页未选）_画板 1.png",
+			"selectedIconPath":"./static/icon/发芽图标（首页已选）_画板 1.png"
+			},
+			{
+				"pagePath":"pages/guiji/index",
+				"text":"轨迹",
+				"iconPath":"./static/icon/发芽图标（轨迹未选）_画板 1.png",
+				"selectedIconPath":"./static/icon/发芽图标（轨迹已选）_画板 1.png"
+			},
+			{
+				"pagePath":"pages/wode/index",
+				"text":"我的",
+				"iconPath":"./static/icon/发芽图标（我的未选）_画板 1.png",
+				"selectedIconPath":"./static/icon/发芽图标（我的已选）_画板 1.png"
+			}
+		]
+	}
+}
