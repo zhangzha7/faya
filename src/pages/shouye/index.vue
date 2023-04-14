@@ -7,7 +7,7 @@
         <input type="text">
       </view>
       <view class="top_btn" @click="search">
-        <text>搜索</text>
+        <text>ss</text>
       </view>
       <view class="top_right" @click="audio">
         <image src="../../static/icon/发芽图标（语音输入）_画板 1.png"></image>

@@ -3,7 +3,7 @@
     <view class="content">
       <view class="info">
         <view class="infoTitleView">
-          <text class="title">完善信息</text>
+          <text class="title">111完善信息111</text>
         </view>
         <view class="infoView">
           <text class="label">姓名</text>
