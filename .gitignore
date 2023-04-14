@@ -3,6 +3,8 @@ node_modules/
 unpackage/
 dist/
 
+.editorconfig
+
 # local env files
 .env.local
 .env.*.local
